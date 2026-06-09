@@ -1,6 +1,8 @@
-<img align="left" width="360" src="./Kermit-Full-Stack.png" alt="Profile image grid" />
+<div align="center">
 
-<h1>Hi, I'm Hung Nguyen</h1>
+<img width="360" src="./assets/Kermit-Full-Stack.png" alt="Kermit Full Stack" />
+
+<h1>Hi, I'm Hung Nguyen 👋</h1>
 <h3>Full-stack Developer | Product-minded Builder</h3>
 
 <p>
@@ -15,10 +17,6 @@
   <strong>Current Quest:</strong> Building practical full-stack applications,
   improving system design, and creating better user experiences through real projects.
 </p>
-```
-
-
-<br clear="left" />
 
 </div>
 
