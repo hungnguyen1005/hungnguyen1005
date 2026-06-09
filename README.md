@@ -165,15 +165,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hungnguyen1005&show_icons=true&hide_border=true&bg_color=0D0303&title_color=FF4D4D&text_color=E7DEDE&icon_color=FF4D4D" alt="GitHub stats" />
-
-<br />
-
 <img src="https://streak-stats.demolab.com?user=hungnguyen1005&hide_border=true&background=0D0303&ring=FF4D4D&fire=C83A3A&currStreakLabel=FF4D4D&sideNums=E7DEDE&currStreakNum=E7DEDE&dates=E7DEDE&sideLabels=FF4D4D" alt="GitHub streak" />
-
-<br />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hungnguyen1005&layout=compact&hide_border=true&bg_color=0D0303&title_color=FF4D4D&text_color=E7DEDE" alt="Top languages" />
 
 </div>
 
