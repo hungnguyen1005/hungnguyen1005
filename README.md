@@ -2,7 +2,7 @@
 
 <img width="360" src="./assets/Kermit-Full-Stack.png" alt="Kermit Full Stack" />
 
-<h1>Hi, I'm Hung Nguyen 👋</h1>
+<h1>Hi, I'm Hung Nguyen</h1>
 <h3>Full-stack Developer | Product-minded Builder</h3>
 
 <p>
@@ -101,7 +101,7 @@
 <table>
   <tr>
     <td width="60" align="center" valign="middle">
-      <img width="42" height="42" src="./Questly.png" alt="Questly icon" />
+      <img width="42" height="42" src="./assets/Questly.png" alt="Questly icon" />
     </td>
     <td valign="middle">
       <strong>Questly</strong>
@@ -113,23 +113,6 @@
       <br />
       <sub>
         <strong>Stack:</strong> NextJS / TypeScript / Node.js / MongoDB / Tailwind CSS
-      </sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="60" align="center" valign="middle">
-      <img width="42" height="42" src="./productivity.png" alt="Productivity app icon" />
-    </td>
-    <td valign="middle">
-      <strong>Productivity App</strong>
-      <br />
-      <sub>
-        A mobile-focused productivity app for tasks, projects, schedules,
-        focus sessions, and team collaboration.
-      </sub>
-      <br />
-      <sub>
-        <strong>Stack:</strong> Flutter / Firebase or Backend API
       </sub>
     </td>
   </tr>
@@ -182,17 +165,35 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0D0303&title_color=FF4D4D&text_color=E7DEDE&icon_color=FF4D4D" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=hungnguyen1005&show_icons=true&hide_border=true&bg_color=0D0303&title_color=FF4D4D&text_color=E7DEDE&icon_color=FF4D4D" alt="GitHub stats" />
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=0D0303&ring=FF4D4D&fire=C83A3A&currStreakLabel=FF4D4D&sideNums=E7DEDE&currStreakNum=E7DEDE&dates=E7DEDE&sideLabels=FF4D4D" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=hungnguyen1005&hide_border=true&background=0D0303&ring=FF4D4D&fire=C83A3A&currStreakLabel=FF4D4D&sideNums=E7DEDE&currStreakNum=E7DEDE&dates=E7DEDE&sideLabels=FF4D4D" alt="GitHub streak" />
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0D0303&title_color=FF4D4D&text_color=E7DEDE" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hungnguyen1005&layout=compact&hide_border=true&bg_color=0D0303&title_color=FF4D4D&text_color=E7DEDE" alt="Top languages" />
 
 </div>
+
+---
+
+## 🎮 Commit Games
+
+### 👾 Pac-Man
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hungnguyen1005/hungnguyen1005/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hungnguyen1005/hungnguyen1005/output/pacman-contribution-graph.svg" />
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/hungnguyen1005/hungnguyen1005/output/pacman-contribution-graph.svg" />
+</picture>
+
+---
+
+### 💣 Minesweeper
+
+<img alt="Minesweeper contribution graph" src="https://raw.githubusercontent.com/hungnguyen1005/hungnguyen1005/output/minesweeper.svg" />
 
 ---
 
@@ -215,4 +216,3 @@
 <sub>Code. Build. Debug. Repeat.</sub>
 
 </div>
-```
