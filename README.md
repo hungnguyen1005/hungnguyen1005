@@ -178,10 +178,7 @@
 </div>
 
 ---
-
-## 🎮 Commit Games
-
-### 👾 Pac-Man
+### Contribution Pac-Man
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hungnguyen1005/hungnguyen1005/output/pacman-contribution-graph-dark.svg" />
@@ -191,7 +188,7 @@
 
 ---
 
-### 💣 Bomberman
+### Contribution Bomberman
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hungnguyen1005/hungnguyen1005/output/bomberman-contribution-graph-dark.svg" />
