@@ -1,4 +1,4 @@
-name: Generate Minesweeper Contribution Graph
+name: Generate Bomberman Contribution Graph
 
 on:
   schedule:
@@ -16,15 +16,11 @@ jobs:
     timeout-minutes: 20
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Generate Minesweeper contribution graph SVG
-        uses: Xiang511/GitHub-Contribution-Minesweeper@main
+      - name: Generate Bomberman contribution graph SVG
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: hungnguyen1005
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          output_path: dist/minesweeper.svg
+          games: "bomberman"
 
       - name: Push SVG to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
