@@ -127,7 +127,7 @@
     <td align="center" width="160">
       <strong>Current Level</strong>
       <br />
-      <sub>Full-stack Learner</sub>
+      <sub>Full-stack Developer</sub>
     </td>
     <td align="center" width="160">
       <strong>Main Quest</strong>
